@@ -1,7 +1,7 @@
 package com.wxj;
 
 class TestServiceImpl implements TestService{
-    public String getUser(String message) {
+    public String get(String message) {
         return "1111";
     }
 }
